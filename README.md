@@ -1,4 +1,4 @@
-# Basic Nodejs example
+# Basic MaticJs example
 
 ## How to use
 
